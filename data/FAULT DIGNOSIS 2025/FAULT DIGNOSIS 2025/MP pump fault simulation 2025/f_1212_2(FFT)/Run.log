@@ -1,0 +1,19 @@
+Dactron Signal Analysis System
+
+Modal Data Acquisition Run Log	12:05:33, Thursday, September 18, 2025
+
+ENTRY TIME	SOURCE	DESCRIPTION
+  		  	  
+12:10:09, Sep 18, 25	User Command	Stop the Test
+12:10:12, Sep 18, 25	System Save	H1_2,1(f)  +1Y  +2Y    Saved.
+12:10:12, Sep 18, 25	System Save	Coh2,1(f)  +1Y  +2Y    Saved.
+12:12:01, Sep 18, 25	User Command	Stop the Test
+12:12:03, Sep 18, 25	System Save	H1_2,1(f)  +1Y  +2Y    Saved.
+09:40:17, Oct 04, 25	User Command	Stop DA output
+09:40:17, Oct 04, 25	User Command	Reset the Hardware
+09:49:06, Oct 04, 25	User Command	Stop DA output
+09:49:06, Oct 04, 25	User Command	Reset the Hardware
+13:45:53, Apr 06, 26	User Command	Stop DA output
+13:45:53, Apr 06, 26	User Command	Reset the Hardware
+13:46:43, Apr 06, 26	User Command	Stop DA output
+13:46:43, Apr 06, 26	User Command	Reset the Hardware

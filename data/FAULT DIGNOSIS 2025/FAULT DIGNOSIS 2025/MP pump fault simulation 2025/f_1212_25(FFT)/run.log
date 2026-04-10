@@ -1,0 +1,43 @@
+Dactron Signal Analysis System
+
+Signal Analysis and Waveform Source Run Log	16:09:08, Friday, December 12, 2025
+
+ENTRY TIME	SOURCE	DESCRIPTION
+  		  	  
+16:09:08, Dec 12, 25	User Command	Stop DA output
+16:09:08, Dec 12, 25	User Command	Reset the Hardware
+12:54:59, Dec 15, 25	User Command	Stop the Test
+12:55:27, Dec 15, 25	User Command	Stop the Test
+12:56:09, Dec 15, 25	User Command	Stop the Test
+12:56:44, Dec 15, 25	User Command	Stop the Test
+12:57:59, Dec 15, 25	User Command	Stop the Test
+12:58:58, Dec 15, 25	User Command	Stop the Test
+12:59:07, Dec 15, 25	User Command	Stop DA output
+12:59:07, Dec 15, 25	User Command	Reset the Hardware
+13:01:10, Dec 15, 25	User Command	Stop the Test
+13:01:23, Dec 15, 25	User Command	Stop the Test
+13:01:26, Dec 15, 25	User Command	Stop the Test
+13:01:39, Dec 15, 25	User Command	Stop the Test
+13:01:49, Dec 15, 25	User Command	Stop the Test
+13:01:51, Dec 15, 25	User Command	Stop the Test
+13:02:15, Dec 15, 25	User Command	Stop the Test
+13:04:16, Dec 15, 25	User Command	Stop the Test
+13:07:47, Dec 15, 25	User Command	Stop the Test
+13:08:15, Dec 15, 25	User Command	Stop DA output
+13:08:15, Dec 15, 25	User Command	Reset the Hardware
+13:09:11, Dec 15, 25	User Command	Stop the Test
+13:10:44, Dec 15, 25	User Command	Stop the Test
+13:11:05, Dec 15, 25	User Command	Stop the Test
+13:11:07, Dec 15, 25	User Command	Stop the Test
+13:11:19, Dec 15, 25	User Command	Stop the Test
+13:11:21, Dec 15, 25	User Command	Stop the Test
+13:12:06, Dec 15, 25	User Command	Stop the Test
+13:13:38, Dec 15, 25	User Command	Stop the Test
+13:13:44, Dec 15, 25	User Command	Stop DA output
+13:13:44, Dec 15, 25	User Command	Reset the Hardware
+14:53:09, Dec 17, 25	User Command	Stop the Test
+14:53:40, Dec 17, 25	User Command	Stop the Test
+10:06:57, Mar 13, 26	User Command	Stop DA output
+10:06:57, Mar 13, 26	User Command	Reset the Hardware
+13:56:16, Apr 06, 26	User Command	Stop DA output
+13:56:16, Apr 06, 26	User Command	Reset the Hardware

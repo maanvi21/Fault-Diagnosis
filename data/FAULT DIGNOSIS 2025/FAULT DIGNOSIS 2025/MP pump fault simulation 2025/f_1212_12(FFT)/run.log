@@ -1,0 +1,49 @@
+Dactron Signal Analysis System
+
+Signal Analysis and Waveform Source Run Log	15:55:15, Friday, December 12, 2025
+
+ENTRY TIME	SOURCE	DESCRIPTION
+  		  	  
+15:55:40, Dec 12, 25	User Command	Stop the Test
+12:05:06, Dec 18, 25	User Command	Stop DA output
+12:05:06, Dec 18, 25	User Command	Reset the Hardware
+12:19:08, Dec 18, 25	User Command	Stop DA output
+12:19:08, Dec 18, 25	User Command	Reset the Hardware
+16:28:33, Feb 23, 26	User Command	Stop DA output
+16:28:33, Feb 23, 26	User Command	Reset the Hardware
+14:39:26, Feb 25, 26	User Command	Stop DA output
+14:39:26, Feb 25, 26	User Command	Reset the Hardware
+14:39:40, Feb 25, 26	User Command	Stop DA output
+14:39:40, Feb 25, 26	User Command	Reset the Hardware
+14:39:48, Feb 25, 26	User Command	Stop DA output
+14:39:48, Feb 25, 26	User Command	Reset the Hardware
+14:40:27, Feb 25, 26	User Command	Stop DA output
+14:40:27, Feb 25, 26	User Command	Reset the Hardware
+14:41:55, Feb 25, 26	User Command	Stop DA output
+14:41:55, Feb 25, 26	User Command	Reset the Hardware
+14:41:58, Feb 25, 26	User Command	Stop DA output
+14:41:58, Feb 25, 26	User Command	Reset the Hardware
+14:42:01, Feb 25, 26	User Command	Stop DA output
+14:42:01, Feb 25, 26	User Command	Reset the Hardware
+14:42:14, Feb 25, 26	User Command	Stop DA output
+14:42:14, Feb 25, 26	User Command	Reset the Hardware
+14:44:00, Feb 25, 26	User Command	Stop DA output
+14:44:00, Feb 25, 26	User Command	Reset the Hardware
+14:44:54, Feb 25, 26	User Command	Stop DA output
+14:44:54, Feb 25, 26	User Command	Reset the Hardware
+14:49:48, Feb 25, 26	User Command	Stop DA output
+14:49:48, Feb 25, 26	User Command	Reset the Hardware
+14:50:09, Feb 25, 26	User Command	Stop DA output
+14:50:09, Feb 25, 26	User Command	Reset the Hardware
+09:46:39, Mar 13, 26	User Command	Stop DA output
+09:46:39, Mar 13, 26	User Command	Reset the Hardware
+09:47:11, Mar 13, 26	User Command	Stop DA output
+09:47:11, Mar 13, 26	User Command	Reset the Hardware
+13:48:59, Apr 06, 26	User Command	Stop DA output
+13:48:59, Apr 06, 26	User Command	Reset the Hardware
+13:49:32, Apr 06, 26	User Command	Stop DA output
+13:49:32, Apr 06, 26	User Command	Reset the Hardware
+13:51:46, Apr 06, 26	User Command	Stop DA output
+13:51:46, Apr 06, 26	User Command	Reset the Hardware
+13:52:06, Apr 06, 26	User Command	Stop DA output
+13:52:06, Apr 06, 26	User Command	Reset the Hardware

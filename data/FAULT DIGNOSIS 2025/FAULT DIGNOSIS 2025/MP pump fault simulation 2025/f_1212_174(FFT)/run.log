@@ -1,0 +1,12 @@
+Dactron Signal Analysis System
+
+Signal Analysis and Waveform Source Run Log	13:18:06, Thursday, December 18, 2025
+
+ENTRY TIME	SOURCE	DESCRIPTION
+  		  	  
+13:19:37, Dec 18, 25	User Command	Stop the Test
+13:20:01, Dec 18, 25	User Command	Stop the Test
+14:15:06, Mar 30, 26	User Command	Stop DA output
+14:15:06, Mar 30, 26	User Command	Reset the Hardware
+15:35:27, Apr 06, 26	User Command	Stop DA output
+15:35:27, Apr 06, 26	User Command	Reset the Hardware
