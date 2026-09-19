@@ -2,7 +2,9 @@
 
 An end-to-end machine learning pipeline for detecting and classifying bearing faults in industrial pumps using vibration signal analysis. The system moves beyond simple fault detection to identify **which specific component is failing** — Inner Race, Outer Race, or a Combination defect.
 
+![Architecture Diagram](diagram.png)
 ---
+
 
 ## 📌 Project Overview
 
